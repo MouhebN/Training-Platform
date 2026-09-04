@@ -58,14 +58,16 @@ services:
     restart: unless-stopped
     depends_on:
       - sonarqube
+    # Host router DNS often breaks inside containers → GitHub clone fails
+    dns:
+      - 8.8.8.8
+      - 1.1.1.1
     ports:
       - "${JENKINS_PORT:-8081}:8080"
       - "${JENKINS_AGENT_PORT:-50000}:50000"
     environment:
       CASC_JENKINS_CONFIG: /var/jenkins_home/casc_configs
       JAVA_OPTS: "-Djenkins.install.runSetupWizard=false"
-      # Set after you create the GitHub repo, then recreate Jenkins:
-      #   GITHUB_REPO_URL=https://github.com/<you>/<repo>.git
       GITHUB_REPO_URL: ${GITHUB_REPO_URL:-}
       GITHUB_BRANCH: ${GITHUB_BRANCH:-main}
       GITHUB_CREDENTIALS_ID: ${GITHUB_CREDENTIALS_ID:-github-credentials}
