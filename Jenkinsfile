@@ -1,8 +1,6 @@
 pipeline {
   agent any
 
-  // When the job is "Pipeline script from SCM" + GitHub hook enabled,
-  // a push to GitHub triggers this build.
   triggers {
     githubPush()
   }
@@ -21,11 +19,9 @@ pipeline {
     stage('Checkout') {
       steps {
         script {
-          // GitHub / SCM job
           if (env.GIT_URL || env.CHANGE_URL || fileExists('.git')) {
             checkout scm
           } else if (fileExists('/workspace/backend/pom.xml')) {
-            // Local Docker mount fallback (no GitHub yet)
             echo 'Using mounted /workspace (local Docker mode)'
             sh 'cp -a /workspace/. "$WORKSPACE/"'
           } else {
@@ -63,40 +59,38 @@ pipeline {
     stage('SonarQube') {
       steps {
         catchError(buildResult: 'UNSTABLE', stageResult: 'FAILURE') {
-          script {
-            def runSonar = { String extraArgs ->
-              sh """
-                set -e
-                echo "Waiting for SonarQube..."
-                for i in \$(seq 1 90); do
-                  STATUS=\$(curl -sf "\$SONAR_HOST_URL/api/system/status" 2>/dev/null | sed -n 's/.*"status":"\\([^"]*\\)".*/\\1/p' || true)
-                  if [ "\$STATUS" = "UP" ]; then
-                    echo "SonarQube is UP"
-                    break
-                  fi
-                  echo "Sonar status=\$STATUS (\$i/90)"
-                  sleep 5
-                done
+          withCredentials([string(credentialsId: 'sonar-token', variable: 'SONAR_TOKEN')]) {
+            sh '''
+              set -euo pipefail
+              echo "Waiting for SonarQube at $SONAR_HOST_URL ..."
+              UP=0
+              for i in $(seq 1 90); do
+                STATUS=$(curl -sf "$SONAR_HOST_URL/api/system/status" 2>/dev/null | sed -n 's/.*"status":"\\([^"]*\\)".*/\\1/p' || true)
+                if [ "$STATUS" = "UP" ]; then
+                  echo "SonarQube is UP"
+                  UP=1
+                  break
+                fi
+                echo "Sonar status=${STATUS:-down} ($i/90)"
+                sleep 5
+              done
+              if [ "$UP" != "1" ]; then
+                echo "SonarQube did not become UP in time"
+                exit 1
+              fi
 
-                cd backend
-                mvn -B -DskipTests org.sonarsource.scanner.maven:sonar-maven-plugin:5.0.0.4389:sonar \\
-                  -Dsonar.projectKey=training-platform \\
-                  -Dsonar.projectName='Training Platform' \\
-                  -Dsonar.host.url="\$SONAR_HOST_URL" \\
-                  -Dsonar.java.binaries=target/classes \\
-                  -Dsonar.coverage.jacoco.xmlReportPaths=target/site/jacoco/jacoco.xml \\
-                  ${extraArgs}
-              """
-            }
+              test -n "$SONAR_TOKEN" || (echo "SONAR_TOKEN env is empty — check Jenkins credential id=sonar-token" && exit 1)
+              echo "Running Sonar analysis with token (length=${#SONAR_TOKEN})"
 
-            try {
-              withCredentials([string(credentialsId: 'sonar-token', variable: 'SONAR_TOKEN')]) {
-                runSonar("-Dsonar.token=\${SONAR_TOKEN}")
-              }
-            } catch (err) {
-              echo "Sonar token missing or binding failed — ${err}"
-              runSonar('')
-            }
+              cd backend
+              mvn -B -DskipTests org.sonarsource.scanner.maven:sonar-maven-plugin:5.0.0.4389:sonar \
+                -Dsonar.projectKey=training-platform \
+                -Dsonar.projectName='Training Platform' \
+                -Dsonar.host.url="$SONAR_HOST_URL" \
+                -Dsonar.java.binaries=target/classes \
+                -Dsonar.coverage.jacoco.xmlReportPaths=target/site/jacoco/jacoco.xml \
+                -Dsonar.token="$SONAR_TOKEN"
+            '''
           }
         }
       }
@@ -104,8 +98,8 @@ pipeline {
   }
 
   post {
-    success { echo 'CI OK — unit tests passed' }
-    unstable { echo 'Tests OK but Sonar unstable — add credential sonar-token' }
+    success { echo 'CI OK — unit tests + Sonar passed' }
+    unstable { echo 'UNSTABLE — usually Sonar. Check credential id=sonar-token (Secret text) and Sonar token validity.' }
     failure { echo 'CI FAILED' }
     cleanup { cleanWs(deleteDirs: true, notFailBuild: true) }
   }
