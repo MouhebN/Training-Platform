@@ -83,13 +83,14 @@ pipeline {
               echo "Running Sonar analysis with token (length=${#SONAR_TOKEN})"
 
               cd backend
+              # SonarQube 9.9 uses sonar.login (token as login); sonar.token is for newer servers
               mvn -B -DskipTests org.sonarsource.scanner.maven:sonar-maven-plugin:5.0.0.4389:sonar \
                 -Dsonar.projectKey=training-platform \
                 -Dsonar.projectName='Training Platform' \
                 -Dsonar.host.url="$SONAR_HOST_URL" \
                 -Dsonar.java.binaries=target/classes \
                 -Dsonar.coverage.jacoco.xmlReportPaths=target/site/jacoco/jacoco.xml \
-                -Dsonar.token="$SONAR_TOKEN"
+                -Dsonar.login="$SONAR_TOKEN"
             '''
           }
         }
