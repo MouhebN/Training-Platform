@@ -3,6 +3,8 @@ pipeline {
 
   triggers {
     githubPush()
+    // Local Docker Jenkins can't receive GitHub webhooks → poll GitHub every ~2 min
+    pollSCM('H/2 * * * *')
   }
 
   options {
