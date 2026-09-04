@@ -1,0 +1,12 @@
+workflow-aggregator:latest
+git:latest
+github:latest
+github-branch-source:latest
+configuration-as-code:latest
+sonar:latest
+jacoco:latest
+pipeline-stage-view:latest
+plain-credentials:latest
+credentials-binding:latest
+ws-cleanup:latest
+job-dsl:latest

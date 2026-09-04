@@ -1,0 +1,29 @@
+{
+  "name": "training-platform-frontend",
+  "version": "0.1.0",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve --host 0.0.0.0 --port 4200",
+    "build": "ng build",
+    "test": "ng test"
+  },
+  "private": true,
+  "dependencies": {
+    "@angular/animations": "latest",
+    "@angular/common": "latest",
+    "@angular/compiler": "latest",
+    "@angular/core": "latest",
+    "@angular/forms": "latest",
+    "@angular/platform-browser": "latest",
+    "@angular/router": "latest",
+    "rxjs": "^7.8.1",
+    "tslib": "^2.8.1",
+    "zone.js": "~0.15.1"
+  },
+  "devDependencies": {
+    "@angular/build": "latest",
+    "@angular/cli": "latest",
+    "@angular/compiler-cli": "latest",
+    "typescript": "latest"
+  }
+}

@@ -1,0 +1,13 @@
+target/
+uploads/
+.idea/
+*.iml
+*.log
+.DS_Store
+.env
+backend/target/
+frontend/dist/
+frontend/node_modules/
+ml-service/.venv/
+__pycache__/
+*.pyc

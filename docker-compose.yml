@@ -1,0 +1,87 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: training-platform-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-training_platform}
+      POSTGRES_USER: ${POSTGRES_USER:-training_user}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-training_password}
+    ports:
+      - "${POSTGRES_PORT:-5432}:5432"
+    volumes:
+      - training-platform-db:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-training_user} -d ${POSTGRES_DB:-training_platform}"]
+      interval: 10s
+      timeout: 5s
+      retries: 8
+    networks:
+      - training-platform-net
+
+  ml-service:
+    build:
+      context: ./ml-service
+    container_name: training-platform-ml
+    restart: unless-stopped
+    ports:
+      - "${ML_PORT:-8000}:8000"
+    networks:
+      - training-platform-net
+
+  backend:
+    build:
+      context: ./backend
+    container_name: training-platform-backend
+    restart: unless-stopped
+    depends_on:
+      postgres:
+        condition: service_healthy
+      ml-service:
+        condition: service_started
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:postgresql://postgres:5432/${POSTGRES_DB:-training_platform}
+      SPRING_DATASOURCE_USERNAME: ${POSTGRES_USER:-training_user}
+      SPRING_DATASOURCE_PASSWORD: ${POSTGRES_PASSWORD:-training_password}
+      SERVER_PORT: 8080
+      APP_ML_ENABLED: ${APP_ML_ENABLED:-true}
+      APP_ML_BASE_URL: http://ml-service:8000
+      JWT_SECRET: ${JWT_SECRET:-change-this-secret-key-to-at-least-32-characters}
+      JWT_EXPIRATION_MS: ${JWT_EXPIRATION_MS:-86400000}
+      # SMTP — replace with client credentials when provided
+      MAIL_HOST: ${MAIL_HOST:-smtp.gmail.com}
+      MAIL_PORT: ${MAIL_PORT:-587}
+      MAIL_USERNAME: ${MAIL_USERNAME:-}
+      MAIL_PASSWORD: ${MAIL_PASSWORD:-}
+      MAIL_FROM: ${MAIL_FROM:-noreply@training.local}
+      MAIL_SMTP_AUTH: ${MAIL_SMTP_AUTH:-true}
+      MAIL_SMTP_STARTTLS_ENABLE: ${MAIL_SMTP_STARTTLS_ENABLE:-true}
+      APP_CORS_ORIGINS: ${APP_CORS_ORIGINS:-http://localhost:4200,http://127.0.0.1:4200,http://localhost,http://localhost:80}
+      CV_UPLOAD_DIR: /app/uploads/cvs
+    ports:
+      - "${BACKEND_PORT:-8080}:8080"
+    volumes:
+      - training-platform-uploads:/app/uploads
+    networks:
+      - training-platform-net
+
+  frontend:
+    build:
+      context: ./frontend
+    container_name: training-platform-frontend
+    restart: unless-stopped
+    depends_on:
+      - backend
+    ports:
+      - "${FRONTEND_PORT:-4200}:80"
+    networks:
+      - training-platform-net
+
+volumes:
+  training-platform-db:
+  training-platform-uploads:
+
+networks:
+  training-platform-net:
+    name: training-platform-net
+    driver: bridge

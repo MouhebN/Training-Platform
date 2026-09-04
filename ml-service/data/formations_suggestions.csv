@@ -1,0 +1,1001 @@
+learner_level,learner_skills,learner_goals,formation_id,formation_title,formation_level,formation_skills,formation_category,label
+INTERMEDIATE,Java|Spring Boot|Spring Security,security,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+BEGINNER,PostgreSQL,backend,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+ADVANCED,French|Communication|Spring Security,project,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+ADVANCED,PostgreSQL|Spring Security,security,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+ADVANCED,Java|Spring Boot|Spring Security|REST APIs,security,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+BEGINNER,Angular|REST APIs|French,backend,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+BEGINNER,Business English,fullstack,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+INTERMEDIATE,Communication|PostgreSQL|Spring Boot,communication,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+BEGINNER,French|Communication|Agile|REST APIs,french career,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,Business English|Angular|REST APIs,it english,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,Angular|Communication|PostgreSQL,ui,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+BEGINNER,Communication,project,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+ADVANCED,Agile|Spring Boot|French,agile,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+ADVANCED,French,language,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+INTERMEDIATE,Project Management|Agile|PostgreSQL|Business English,project,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs|French|Communication,angular,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+BEGINNER,REST APIs|Java,security,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+BEGINNER,TypeScript|Angular|Communication,management,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+ADVANCED,REST APIs|PostgreSQL|TypeScript,business,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+BEGINNER,French|Java,french,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+BEGINNER,Java|REST APIs|PostgreSQL|Spring Security,java,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+ADVANCED,French|Communication|REST APIs,francais,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+BEGINNER,Business English|Project Management,project,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+ADVANCED,Java|Spring Boot|Spring Security|REST APIs,jwt,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+BEGINNER,Angular,angular training,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+BEGINNER,TypeScript,scrum,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+ADVANCED,TypeScript,java,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+BEGINNER,French|Communication|Agile|Project Management,francais career,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+ADVANCED,Spring Boot,presentation,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+BEGINNER,Angular|TypeScript,angular,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+BEGINNER,Project Management|Agile|Business English,rest,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+ADVANCED,Angular,auth,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+BEGINNER,Project Management|Agile|Communication,project career,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+ADVANCED,REST APIs,java,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+ADVANCED,French|Java|Angular,language,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+BEGINNER,Angular|TypeScript|Business English|Spring Security,frontend,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+BEGINNER,Project Management|Agile,scrum,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+ADVANCED,PostgreSQL|Spring Security|Project Management,project,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+BEGINNER,Angular|TypeScript|Business English|Spring Security,angular,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+INTERMEDIATE,TypeScript,it english,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+INTERMEDIATE,Spring Security|REST APIs|French,francais,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,REST APIs|PostgreSQL,auth,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+BEGINNER,French|Communication|Angular,french training,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+INTERMEDIATE,Communication|Angular,business,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+ADVANCED,PostgreSQL,security,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+BEGINNER,Business English|Communication|French,english,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+INTERMEDIATE,Project Management|Agile|Business English|REST APIs,project,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+ADVANCED,PostgreSQL,scrum,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+ADVANCED,TypeScript,language,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+INTERMEDIATE,Agile|Business English,francais,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+INTERMEDIATE,Angular|Project Management|Agile,fullstack,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+INTERMEDIATE,Business English|Project Management,java,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+INTERMEDIATE,Java|Spring Boot|Angular|REST APIs,java,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+BEGINNER,Business English|Communication,english,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,French,francais,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+ADVANCED,French|Agile,java,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+BEGINNER,French|Communication|PostgreSQL|Agile,french career,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,Java|Spring Boot|Angular|TypeScript|REST APIs|French,fullstack,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+INTERMEDIATE,Java|Spring Boot|Spring Security|Communication,auth,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+ADVANCED,Communication|Business English|Spring Boot,fullstack,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+BEGINNER,Business English|Communication|REST APIs|Project Management,it english,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+ADVANCED,Spring Security|Agile,rest,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+BEGINNER,Java|REST APIs|PostgreSQL,api,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+BEGINNER,PostgreSQL|TypeScript,ui,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+INTERMEDIATE,TypeScript|Spring Security,french,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+BEGINNER,PostgreSQL|French|Business English,management,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+BEGINNER,Spring Boot,francais,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+INTERMEDIATE,Communication|French|Agile,frontend,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+ADVANCED,Spring Boot|Java|Spring Security,presentation,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+INTERMEDIATE,Communication|Business English|Spring Boot,business,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+BEGINNER,Angular|TypeScript|PostgreSQL|Business English,ui,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+INTERMEDIATE,Project Management|Agile,scrum job,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+BEGINNER,Business English|Communication|Spring Security,it english,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+ADVANCED,REST APIs|Spring Boot|Business English,it english,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+BEGINNER,Business English|Agile|French,french,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+ADVANCED,French|Angular,fullstack,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+INTERMEDIATE,Communication|Business English|PostgreSQL,presentation career,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+BEGINNER,Angular|TypeScript|French,typescript,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+INTERMEDIATE,Project Management|Agile,management career,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+ADVANCED,Spring Boot|Java,business,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+INTERMEDIATE,Communication|Spring Boot,business,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+BEGINNER,Java|REST APIs|PostgreSQL|Spring Security,spring,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+ADVANCED,Agile|French,typescript,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+ADVANCED,Spring Security|TypeScript|Agile,angular,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+ADVANCED,Java,scrum,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,angular,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|PostgreSQL|French,full stack job,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+INTERMEDIATE,Project Management|Agile|TypeScript,scrum,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+INTERMEDIATE,PostgreSQL|Java|Spring Boot,spring,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+BEGINNER,Angular|TypeScript|Spring Security,ui,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+ADVANCED,Java|Spring Boot|Spring Security|PostgreSQL,spring,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+ADVANCED,Java|Project Management|Spring Boot,typescript,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+ADVANCED,Agile,full stack,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+ADVANCED,Project Management|Java,jwt,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+INTERMEDIATE,Spring Boot|Java,presentation,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+INTERMEDIATE,TypeScript,francais,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+BEGINNER,Angular|TypeScript|PostgreSQL|Agile,ui training,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+ADVANCED,Business English|PostgreSQL|Spring Security,typescript,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+BEGINNER,PostgreSQL|Business English,francais,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+INTERMEDIATE,Communication|Business English|Project Management,communication,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+BEGINNER,Business English|Communication,it english,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+ADVANCED,Spring Security|Project Management|Java,security,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+BEGINNER,French|Communication,francais,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+ADVANCED,Java|Spring Boot|Spring Security|REST APIs|Business English,spring,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+INTERMEDIATE,Project Management|Agile|Java,management,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+BEGINNER,Spring Boot|TypeScript|Java,francais,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+BEGINNER,Angular,francais,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+BEGINNER,Business English|Communication|Spring Security|French,language,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript,angular,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+ADVANCED,Agile|Spring Security|Spring Boot,angular,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+ADVANCED,PostgreSQL|REST APIs,full stack,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+BEGINNER,PostgreSQL|Java|TypeScript,angular,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+INTERMEDIATE,REST APIs|Angular,spring,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+ADVANCED,Java|PostgreSQL|Communication,backend,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+BEGINNER,Project Management|Agile,agile,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+BEGINNER,Angular|TypeScript|PostgreSQL,typescript,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+ADVANCED,Java|Spring Boot|Spring Security|REST APIs|Business English|French,spring job,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+ADVANCED,Java|Spring Boot|Spring Security|Project Management|Communication,spring career,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+ADVANCED,Spring Boot,language,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+BEGINNER,Business English,it english career,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,Angular|Communication|Project Management,frontend,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+ADVANCED,Java|Angular,auth,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+INTERMEDIATE,Communication|Business English|Angular|Java,communication,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+BEGINNER,French|Communication|Java,francais career,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,java,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+BEGINNER,Java|REST APIs|PostgreSQL,backend career,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+BEGINNER,French,frontend,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+ADVANCED,Spring Boot|French|Communication,project,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+ADVANCED,Business English,francais,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+BEGINNER,Java|REST APIs|Agile,api,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+ADVANCED,Java|Spring Boot|Spring Security,spring,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+INTERMEDIATE,Project Management|Agile|Communication,project,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs|Project Management,fullstack,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+BEGINNER,Business English,it english career,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,TypeScript|Agile,rest,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+BEGINNER,Angular|TypeScript,francais,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+INTERMEDIATE,Communication|Business English,communication,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+INTERMEDIATE,Communication,presentation,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+ADVANCED,Project Management|Spring Boot|Spring Security,angular,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+INTERMEDIATE,Agile|Spring Boot|Spring Security,english,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript,angular,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+BEGINNER,TypeScript,language,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+ADVANCED,Java|Spring Boot|Spring Security|Business English,jwt,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+BEGINNER,Business English|Communication|Project Management|Agile,english training,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+INTERMEDIATE,Java|Spring Boot|Angular,angular,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+BEGINNER,Business English|Communication|REST APIs|Agile,language,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,Java|REST APIs,rest,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+BEGINNER,Business English|Communication|Spring Security,language,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+INTERMEDIATE,Communication|Business English,business,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+BEGINNER,Angular,french,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+ADVANCED,Java|Spring Boot|Spring Security|Agile,jwt career,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+ADVANCED,Spring Boot|Spring Security|Communication,agile,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+INTERMEDIATE,Communication|French,business,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+ADVANCED,Java|Spring Boot|Spring Security,spring career,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+BEGINNER,Business English|Communication|Java|Project Management,language,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,French|Communication|Spring Boot,francais,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,Angular|TypeScript|Business English,frontend,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+BEGINNER,Business English|Java|Angular,english,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,Spring Security|Angular|Java,business,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+BEGINNER,Business English|Communication,it english,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+ADVANCED,Business English|Spring Boot|Agile,communication,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+INTERMEDIATE,Communication|REST APIs,jwt,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+ADVANCED,Java|Spring Boot|Spring Security|French|REST APIs,jwt,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+ADVANCED,Spring Security|Communication|Java,management,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+ADVANCED,REST APIs|French,frontend,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+BEGINNER,French|Agile,french,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+ADVANCED,Communication,language,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+ADVANCED,Java|Spring Boot|Spring Security|REST APIs|French,jwt,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+ADVANCED,Spring Security|Agile,rest,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+INTERMEDIATE,REST APIs|Java,typescript,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+BEGINNER,Angular|TypeScript|Spring Security,ui,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+ADVANCED,Java|Spring Boot|Spring Security,auth job,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+INTERMEDIATE,Java|Spring Boot|Spring Security|Business English|PostgreSQL,auth,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+ADVANCED,Agile|Spring Security,communication,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+INTERMEDIATE,Business English,full stack,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+BEGINNER,French|Communication|PostgreSQL,francais,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,Communication|Angular|PostgreSQL,angular,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+INTERMEDIATE,Communication|French|Spring Security,french,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+BEGINNER,French,francais,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,French|Communication,french,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,Business English|Communication,scrum,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+BEGINNER,Angular|TypeScript|PostgreSQL|Spring Boot,angular,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+BEGINNER,Angular,typescript,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+BEGINNER,Business English|Communication|Java,it english,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,Java|REST APIs|PostgreSQL|French,backend,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+BEGINNER,French|Angular|Business English,language career,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+INTERMEDIATE,Communication|Business English|Spring Security|Agile,business,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+ADVANCED,Java|Spring Boot|Spring Security|Communication|PostgreSQL,spring,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+BEGINNER,REST APIs|Spring Boot,auth,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+ADVANCED,Angular|Business English|Spring Boot,agile,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+INTERMEDIATE,REST APIs|Spring Boot|French,french,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+BEGINNER,Java|REST APIs|Business English,spring job,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+BEGINNER,French|Communication|Spring Boot|Spring Security,language job,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+INTERMEDIATE,Communication|Business English|French|Spring Security,communication,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+ADVANCED,Angular|Project Management|Spring Security,frontend,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+ADVANCED,REST APIs|PostgreSQL,security,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+INTERMEDIATE,Spring Security|French|Project Management,french,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+ADVANCED,TypeScript|Java|REST APIs,language,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+BEGINNER,French|Communication|PostgreSQL,language job,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,French|Communication|Angular,francais,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+INTERMEDIATE,Communication,business,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+BEGINNER,Java|REST APIs|Agile|Angular,backend,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+INTERMEDIATE,Communication|Project Management|French,business job,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript,fullstack career,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+BEGINNER,Business English|TypeScript,it english training,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,Project Management|Agile|PostgreSQL|Spring Boot,project,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+ADVANCED,Spring Security|REST APIs,project,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+INTERMEDIATE,Business English|Communication,spring,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+INTERMEDIATE,Communication|Business English|PostgreSQL|Angular,presentation,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+INTERMEDIATE,Project Management|Agile|Spring Boot,agile,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+ADVANCED,TypeScript|Spring Boot,communication,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+BEGINNER,Business English|Communication,language career,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,Business English|Communication|Agile,it english,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+ADVANCED,TypeScript|Agile|Business English,agile,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+ADVANCED,Agile|Angular,presentation,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|Agile,fullstack,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+INTERMEDIATE,Project Management|Agile|TypeScript|French,management job,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+ADVANCED,Java|Spring Boot|Spring Security|Business English,spring,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+BEGINNER,Angular|TypeScript,frontend,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+BEGINNER,Business English|Communication|Spring Security|Java,english,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,French|Angular,french,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript,java,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+ADVANCED,Business English|Angular,english,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+BEGINNER,Agile|Project Management,language,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+INTERMEDIATE,PostgreSQL|REST APIs,francais,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+ADVANCED,Spring Security|Java|Angular,language,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs|French,angular training,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+BEGINNER,Angular|TypeScript,frontend,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+INTERMEDIATE,Communication|Business English,business,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+ADVANCED,Java|Spring Boot|Spring Security|French|Project Management,spring,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+BEGINNER,Angular|TypeScript|Project Management|Agile,ui,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+ADVANCED,French|Communication|Spring Security,presentation,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+BEGINNER,PostgreSQL,language,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+ADVANCED,PostgreSQL,angular,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+BEGINNER,French|Communication,language,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+INTERMEDIATE,Java|TypeScript,frontend,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+BEGINNER,Java|REST APIs|PostgreSQL|Spring Boot|Spring Security,api job,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+ADVANCED,Agile|Project Management|French,scrum,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+ADVANCED,Spring Boot|Spring Security,presentation,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+ADVANCED,Project Management,scrum,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+INTERMEDIATE,Java|Spring Boot|Angular,full stack training,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+BEGINNER,Java|REST APIs|Spring Boot|Communication,spring career,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+BEGINNER,Java|Spring Boot|Angular|TypeScript|REST APIs,angular training,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+INTERMEDIATE,Communication|Business English|Agile|REST APIs,business training,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+ADVANCED,Business English|Communication,api,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+BEGINNER,Spring Security|PostgreSQL,fullstack,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|Spring Security,fullstack,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript,angular training,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+BEGINNER,Java|REST APIs|PostgreSQL|Spring Boot|Spring Security,rest,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+BEGINNER,French|Communication|Java,french,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+ADVANCED,Business English|REST APIs|TypeScript,spring,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+BEGINNER,Communication|Project Management,presentation,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+BEGINNER,Java|Spring Boot|Angular|TypeScript|Project Management|Communication,angular,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+BEGINNER,Business English,english,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,Communication|Business English|Project Management|French,business training,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+INTERMEDIATE,Java|Business English|French,language,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+BEGINNER,Java|REST APIs|PostgreSQL,backend training,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+ADVANCED,Business English|French|Spring Boot,security,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+BEGINNER,Project Management|Agile|TypeScript|Spring Security,project,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+ADVANCED,TypeScript|Spring Boot,ui,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,full stack job,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+BEGINNER,French,francais,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,Project Management,ui,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+BEGINNER,PostgreSQL|Angular,francais,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+BEGINNER,French|Agile|Spring Security,frontend,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+INTERMEDIATE,Angular|TypeScript|Spring Security,language,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+INTERMEDIATE,Communication|Business English,presentation,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+INTERMEDIATE,Communication|Project Management,presentation,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+BEGINNER,Business English|Communication,english job,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+INTERMEDIATE,Project Management|Spring Boot,java,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+INTERMEDIATE,Project Management|Agile|Communication,scrum career,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+BEGINNER,Business English|PostgreSQL,fullstack,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+BEGINNER,Project Management|Agile|Business English,ui,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+BEGINNER,Project Management|Agile,agile,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+ADVANCED,Java|Spring Boot|Spring Security|REST APIs|French|Agile,auth job,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+BEGINNER,Business English|Communication|Project Management,language,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+ADVANCED,REST APIs|Project Management|Angular,spring,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+ADVANCED,Angular,fullstack,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+ADVANCED,PostgreSQL|Business English|Communication,backend,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+ADVANCED,TypeScript,english,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+BEGINNER,Java|Spring Boot|Angular|Communication,fullstack,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+BEGINNER,Business English|Communication|Agile,english career,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+INTERMEDIATE,Communication|Business English|TypeScript|Angular,business career,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|PostgreSQL|French,fullstack job,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+ADVANCED,Java|Spring Boot|Spring Security|REST APIs,spring,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+BEGINNER,French|Project Management|Angular,french,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,Spring Security|REST APIs|French,agile,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+BEGINNER,French|Communication,language,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript,java training,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+BEGINNER,TypeScript|French|Business English,ui,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+BEGINNER,French|Communication|TypeScript|Business English,francais,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+INTERMEDIATE,PostgreSQL|Spring Boot|Spring Security,java,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+BEGINNER,Angular|Project Management,ui,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+ADVANCED,PostgreSQL|Spring Security,auth,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+ADVANCED,Spring Security|REST APIs,language,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+BEGINNER,French|Communication|Project Management|Business English,language career,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+INTERMEDIATE,Project Management|Agile|French,scrum,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+ADVANCED,Java|Spring Boot|Spring Security|French,security,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+BEGINNER,Business English,francais,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+BEGINNER,Java|REST APIs,spring,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+BEGINNER,TypeScript|Spring Security|Agile,french,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+INTERMEDIATE,Communication|Business English,presentation training,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+ADVANCED,Java|Spring Boot|Spring Security|REST APIs|PostgreSQL,jwt,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+INTERMEDIATE,Agile,agile,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+BEGINNER,Business English|Communication,language job,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,French|Spring Boot|Project Management,language,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,Business English|Communication,it english,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+INTERMEDIATE,Project Management|Java,api,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+BEGINNER,Angular|REST APIs,frontend,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+INTERMEDIATE,Project Management|Agile,management training,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+BEGINNER,Java|Spring Boot|Angular,fullstack training,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+BEGINNER,French|Communication,francais,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,Java|Spring Boot|Angular|TypeScript,angular,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+INTERMEDIATE,Spring Security|Spring Boot|Java,business,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+ADVANCED,Agile,communication,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+ADVANCED,Java|Spring Boot|Spring Security|Communication|Agile,spring,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+ADVANCED,Java|Spring Boot|Spring Security|Project Management|REST APIs,spring training,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+BEGINNER,Business English,english training,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+ADVANCED,Angular|Communication,francais,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+INTERMEDIATE,Java,communication,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+ADVANCED,French|Project Management,it english,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+BEGINNER,TypeScript|French|PostgreSQL,full stack,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+ADVANCED,Communication,angular,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+INTERMEDIATE,Java,auth,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+BEGINNER,Java|REST APIs|PostgreSQL|Angular|Spring Security,backend,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+INTERMEDIATE,Communication|Business English|PostgreSQL|Spring Security,presentation,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+BEGINNER,Communication,francais,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+ADVANCED,Java|Spring Boot|Spring Security|REST APIs|Angular|Project Management,spring training,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+BEGINNER,Angular|French|Spring Boot,angular career,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+BEGINNER,French|Communication,french,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,Business English|Angular|PostgreSQL,language,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,Java|REST APIs|PostgreSQL,spring,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+INTERMEDIATE,Project Management|Agile,agile,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|Project Management,java job,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+ADVANCED,Java|Angular|French,language,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+ADVANCED,Java|Spring Boot|Spring Security|REST APIs|French,jwt,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+BEGINNER,Agile|Business English|Project Management,project,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+BEGINNER,Business English|Communication|Spring Security,it english,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+INTERMEDIATE,Angular|French|Project Management,angular,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+ADVANCED,Spring Boot|Spring Security|French,auth,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+ADVANCED,Java|Spring Boot|Spring Security|REST APIs,auth career,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+ADVANCED,Java|REST APIs|TypeScript,french,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+ADVANCED,Communication|Spring Security,it english,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+BEGINNER,Angular|TypeScript|Business English,frontend career,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+BEGINNER,Angular,ui,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+BEGINNER,Angular|PostgreSQL,backend,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+INTERMEDIATE,Angular,api,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+ADVANCED,Project Management|Java,java,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+BEGINNER,Angular|TypeScript,frontend,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+BEGINNER,French,language,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+ADVANCED,Agile|Business English|Project Management,francais,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+INTERMEDIATE,Communication|Business English,business job,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+BEGINNER,PostgreSQL,it english,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+INTERMEDIATE,Communication,java,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+BEGINNER,Angular|Java|French,management,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+BEGINNER,French,french,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+BEGINNER,French|Communication,francais,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+INTERMEDIATE,Communication|Spring Security|Spring Boot,business,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+INTERMEDIATE,PostgreSQL|Angular,auth,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+ADVANCED,Agile,communication,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+BEGINNER,Angular|TypeScript|Spring Security,angular,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+INTERMEDIATE,Java|Spring Security|Angular,language,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+BEGINNER,French|Communication,francais career,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+INTERMEDIATE,Communication,business career,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+BEGINNER,Java|REST APIs|PostgreSQL,api,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+BEGINNER,Business English|Communication|REST APIs|Spring Security,english job,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+ADVANCED,Java|Spring Boot|Spring Security|Angular,security,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+INTERMEDIATE,Spring Security|TypeScript,security,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|Agile|Communication,java job,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+BEGINNER,French|Spring Boot,language,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+ADVANCED,Java|Spring Boot|Spring Security|PostgreSQL,security,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+INTERMEDIATE,Spring Boot|Agile,angular,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+INTERMEDIATE,Communication|Project Management,business,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+ADVANCED,Java|Spring Boot|Spring Security|Communication|TypeScript,auth,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+INTERMEDIATE,Project Management,ui,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+BEGINNER,Java|REST APIs|PostgreSQL|Angular|Spring Security,api career,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|Business English|REST APIs,java,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+ADVANCED,Java|Spring Boot|Spring Security|Agile|Project Management,security,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+BEGINNER,Business English|Communication|French,english,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,Communication|Project Management|TypeScript,scrum,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+BEGINNER,French,language,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+ADVANCED,Project Management,angular,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+BEGINNER,Project Management|Agile|Communication|Spring Boot|REST APIs,scrum,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+INTERMEDIATE,REST APIs,fullstack,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+ADVANCED,Spring Security|Spring Boot|PostgreSQL,english,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+BEGINNER,Java|REST APIs|PostgreSQL,backend career,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs|Agile|Business English,full stack job,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+ADVANCED,French|Business English,java,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+BEGINNER,Spring Boot|PostgreSQL|Java,java,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+ADVANCED,PostgreSQL|Business English|French,angular,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+BEGINNER,Java|REST APIs,spring training,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+ADVANCED,PostgreSQL|TypeScript|REST APIs,francais,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+BEGINNER,French|Communication|TypeScript|Spring Boot,language,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+INTERMEDIATE,Project Management|Agile,agile,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+BEGINNER,PostgreSQL|REST APIs|Spring Boot,communication,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+ADVANCED,Spring Security|Java|Project Management,ui,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+INTERMEDIATE,TypeScript|Agile|Business English,language,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+INTERMEDIATE,Angular|Agile|PostgreSQL,language,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+BEGINNER,Angular|TypeScript|PostgreSQL|Business English,frontend,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+ADVANCED,Java|Spring Boot|Spring Security|Communication,spring,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+INTERMEDIATE,Java|Spring Boot,full stack,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+BEGINNER,Business English|Communication,english,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,French|Communication,francais,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,Project Management,frontend,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+BEGINNER,Angular|TypeScript,ui,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+BEGINNER,French,french,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|French,angular,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+INTERMEDIATE,Project Management|Agile|Communication|PostgreSQL,agile,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+BEGINNER,Angular|TypeScript|REST APIs,ui career,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+BEGINNER,Angular|Spring Security|Spring Boot,angular,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+INTERMEDIATE,Spring Security,english,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+BEGINNER,Business English|Project Management,english,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+INTERMEDIATE,Project Management|Agile|PostgreSQL|Spring Security,project,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+INTERMEDIATE,Project Management|Agile,agile,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+ADVANCED,Spring Security|Java,management,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+BEGINNER,French|Spring Boot|Business English,language,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,Agile,english,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+INTERMEDIATE,Project Management|Agile,agile,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+INTERMEDIATE,Java,backend,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+ADVANCED,Spring Boot|Angular,english,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+ADVANCED,TypeScript|Project Management,language,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+BEGINNER,Angular|TypeScript,frontend training,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+BEGINNER,French|Communication|Business English,language,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,Angular|TypeScript|Communication,typescript,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+BEGINNER,French|Project Management|Communication,business,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|Business English|REST APIs,full stack career,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+ADVANCED,Spring Boot,it english,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+INTERMEDIATE,Project Management|Agile|TypeScript|French,project,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+BEGINNER,French|Communication|Spring Boot,language,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,Business English|Communication,language,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,Project Management|French,french,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+ADVANCED,French|Project Management|Angular,english,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|Agile|French,full stack career,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+BEGINNER,Business English|Communication,it english career,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,Angular,francais,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+INTERMEDIATE,Business English,language,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+INTERMEDIATE,Business English,security,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+INTERMEDIATE,Communication|Business English|REST APIs|PostgreSQL,business,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+BEGINNER,Angular|TypeScript|Business English|PostgreSQL,typescript,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|Communication,java,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+BEGINNER,Angular|TypeScript|Spring Boot,ui,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+INTERMEDIATE,PostgreSQL|TypeScript|Java,project,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+INTERMEDIATE,Project Management,francais,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+ADVANCED,PostgreSQL|REST APIs|Java,full stack,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+ADVANCED,Agile|PostgreSQL|Communication,language,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+BEGINNER,Business English|Communication|Angular|Agile,language training,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+INTERMEDIATE,Angular|Agile|REST APIs,it english,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+INTERMEDIATE,Java|Spring Boot|Spring Security|PostgreSQL|Communication,spring,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+BEGINNER,Project Management|Agile,agile,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+INTERMEDIATE,Project Management|Agile|Spring Boot,agile,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+BEGINNER,Business English,presentation,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+INTERMEDIATE,Communication|Angular,communication,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+INTERMEDIATE,Java|Spring Boot|Angular,java,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+INTERMEDIATE,Communication|Business English,presentation,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+INTERMEDIATE,Communication|Business English|Java,presentation training,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+INTERMEDIATE,Java|Spring Boot|Spring Security|REST APIs|PostgreSQL|Communication,jwt,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+ADVANCED,Java|Spring Boot|Spring Security|REST APIs|Business English|Communication,security,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+INTERMEDIATE,Spring Boot,backend,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+BEGINNER,Agile,scrum,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+BEGINNER,Business English|Spring Boot|Agile,language,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+INTERMEDIATE,Agile,business,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+BEGINNER,Business English|TypeScript,fullstack,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+BEGINNER,Java|Spring Boot|Angular|TypeScript|Agile|Communication,angular,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+BEGINNER,Angular|Project Management|Communication,angular,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+BEGINNER,Communication|Business English|Spring Security|French,presentation,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+INTERMEDIATE,Java|Business English|Communication,it english,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+INTERMEDIATE,Project Management|Agile|Communication|Angular,management training,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|Agile|Communication,angular,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+BEGINNER,Angular,ui job,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+ADVANCED,Project Management|Angular,francais,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+INTERMEDIATE,PostgreSQL,language,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+BEGINNER,PostgreSQL,language,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+BEGINNER,Project Management|Communication|Business English,agile,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+INTERMEDIATE,Project Management|Agile,project,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+INTERMEDIATE,Communication,jwt,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+ADVANCED,REST APIs,english,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+INTERMEDIATE,Communication|Business English|Angular|TypeScript,business,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+INTERMEDIATE,Communication|Business English|PostgreSQL|French,presentation training,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+ADVANCED,Java|Spring Boot|Spring Security,spring,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+ADVANCED,Agile,jwt,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+INTERMEDIATE,Project Management|Agile|French,project,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+BEGINNER,Project Management|French,auth,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+BEGINNER,Java|REST APIs|PostgreSQL,spring,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+BEGINNER,Angular|Business English,angular,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+ADVANCED,Business English,business,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+ADVANCED,Spring Security|Agile|PostgreSQL,auth,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+INTERMEDIATE,Java|Spring Boot|Spring Security,auth,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+BEGINNER,Angular|TypeScript,angular training,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+INTERMEDIATE,Communication|French|Angular,language,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+BEGINNER,French|Agile,ui,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+ADVANCED,PostgreSQL,agile,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+ADVANCED,French,jwt,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+INTERMEDIATE,Communication|French,business,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+ADVANCED,TypeScript|REST APIs|French,management,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+BEGINNER,French|TypeScript,language career,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,Angular|TypeScript|Business English,angular training,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+BEGINNER,Business English|PostgreSQL,java,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+BEGINNER,Business English|Project Management|Agile,language,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+INTERMEDIATE,Business English,management,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+INTERMEDIATE,Project Management|Agile|Communication|French|REST APIs,project,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+BEGINNER,Angular|TypeScript,ui,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+BEGINNER,Agile|Communication|French,business,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+INTERMEDIATE,Project Management|Agile|Communication|TypeScript,agile training,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+ADVANCED,Java|Spring Boot|Spring Security,spring,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+ADVANCED,Business English|REST APIs,francais,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+BEGINNER,Java|REST APIs|Angular,backend,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+INTERMEDIATE,Communication|REST APIs,business,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+BEGINNER,French,angular,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+INTERMEDIATE,Project Management|Agile|Communication,management career,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs|Project Management|PostgreSQL,full stack,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+ADVANCED,Java|Project Management|Angular,scrum,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+INTERMEDIATE,Project Management|Agile|Communication|PostgreSQL|TypeScript,management job,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+BEGINNER,Java|REST APIs|PostgreSQL|Communication,rest,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+ADVANCED,Spring Security|Agile,java,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+BEGINNER,Java|Spring Boot|Angular|TypeScript|REST APIs|Project Management,fullstack training,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+BEGINNER,Project Management|Spring Security,management,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+BEGINNER,TypeScript|French|Spring Boot,auth,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+BEGINNER,Angular|Communication|French,ui,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+BEGINNER,Java|REST APIs|PostgreSQL,java,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+ADVANCED,Angular|Business English,agile,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+ADVANCED,Java|Spring Boot|Spring Security|TypeScript|Angular,spring,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+ADVANCED,Spring Boot|TypeScript,scrum,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+INTERMEDIATE,Project Management|Agile|Business English,french,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|Agile|French,angular,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+BEGINNER,Project Management|TypeScript|Spring Security,jwt,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+BEGINNER,Spring Boot|REST APIs|French,full stack,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+BEGINNER,French|Agile,french training,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,Business English|Project Management,english,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+ADVANCED,Business English|French,language,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+ADVANCED,French|Agile,business,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+ADVANCED,Project Management|French,management,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+BEGINNER,Java|REST APIs|PostgreSQL,api,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+ADVANCED,PostgreSQL|Java,it english,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+BEGINNER,Java|REST APIs|Agile|French,api,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+ADVANCED,Java|Spring Boot|Spring Security|Project Management|French,spring,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+BEGINNER,Angular|Business English,ui career,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+BEGINNER,Java|REST APIs|PostgreSQL,spring career,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|Communication,full stack,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+BEGINNER,Angular|TypeScript,frontend job,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+BEGINNER,Java|REST APIs|PostgreSQL,api career,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+ADVANCED,Java|Spring Boot|Spring Security|REST APIs|Business English,spring,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+ADVANCED,French|Spring Security|Angular,management,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+ADVANCED,Spring Security,typescript,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+ADVANCED,REST APIs|Java,rest,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+INTERMEDIATE,Java|Spring Boot|Spring Security|Agile|REST APIs,jwt,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+BEGINNER,Angular|French|TypeScript,ui,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+BEGINNER,Business English,it english,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,French|Angular,francais,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,Angular|PostgreSQL,ui training,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+INTERMEDIATE,Project Management|REST APIs|French,language,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+BEGINNER,Business English|Communication|Spring Security|PostgreSQL,language,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+ADVANCED,Java|Spring Boot|Spring Security|REST APIs,jwt career,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+INTERMEDIATE,French|PostgreSQL|Java,angular,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,Agile,francais,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+INTERMEDIATE,Java|PostgreSQL|French,business,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+BEGINNER,Spring Security,language,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+INTERMEDIATE,Java|Spring Boot|Angular|PostgreSQL|Communication,angular,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+ADVANCED,Spring Security,agile,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+ADVANCED,Agile|Angular,it english,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+INTERMEDIATE,French|REST APIs,scrum,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+INTERMEDIATE,Project Management|Agile|Java,agile,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+INTERMEDIATE,Project Management|Agile|Communication,project,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+ADVANCED,French|Spring Security|Java,java,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+INTERMEDIATE,Project Management|Agile,agile job,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+BEGINNER,Project Management|Agile|PostgreSQL,agile,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+BEGINNER,Business English|Angular,it english,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+ADVANCED,Spring Security|Business English|Agile,rest,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+BEGINNER,Angular|TypeScript,ui,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+INTERMEDIATE,Java|Spring Boot|Spring Security|Angular,security,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+BEGINNER,Business English|Communication|Spring Security,it english,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+ADVANCED,Communication|PostgreSQL|Business English,api,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+INTERMEDIATE,Java|Spring Boot|Spring Security|Agile,spring,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+BEGINNER,Project Management|Agile|French,project,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+BEGINNER,Communication|Business English,communication training,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+INTERMEDIATE,Project Management|Agile|Communication,scrum career,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|French,java,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+INTERMEDIATE,Agile|Java|PostgreSQL,spring,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+BEGINNER,Project Management|Agile|Communication,agile,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+ADVANCED,PostgreSQL,french,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+BEGINNER,Angular|French,ui,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+BEGINNER,Java|REST APIs|PostgreSQL|Agile,backend training,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+INTERMEDIATE,Project Management|Agile|Communication|PostgreSQL|Java,scrum,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+ADVANCED,TypeScript|Angular,java,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+BEGINNER,Business English|Communication|REST APIs|TypeScript,english,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+INTERMEDIATE,Communication|Spring Security|Business English,communication,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+BEGINNER,Angular|TypeScript,frontend,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+ADVANCED,Java|Spring Boot|Spring Security|REST APIs,spring,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+BEGINNER,Business English|Communication|PostgreSQL|Spring Security,english career,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,REST APIs|French|Spring Boot,it english,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+BEGINNER,French|Communication|Angular,francais,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript,fullstack training,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs|French,angular,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+BEGINNER,Business English|TypeScript|Angular,language,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,Java|REST APIs,backend,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+ADVANCED,Spring Boot|TypeScript|Angular,agile,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+INTERMEDIATE,Project Management|Agile|Java|Business English,scrum,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+ADVANCED,Java|Spring Boot|Spring Security|French|Angular,spring,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+BEGINNER,Project Management,angular,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+ADVANCED,Agile,presentation,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+BEGINNER,Angular|TypeScript,frontend career,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+BEGINNER,Java|REST APIs|TypeScript,spring,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+ADVANCED,Spring Boot|Business English,project,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+BEGINNER,French|Communication|Project Management,french,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+BEGINNER,REST APIs|Java|Spring Boot,spring,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+INTERMEDIATE,Project Management|Agile|Spring Boot,auth,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+ADVANCED,French|Business English|Spring Security,project,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+INTERMEDIATE,Project Management|Agile|Communication,project career,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+INTERMEDIATE,Project Management|Agile,project training,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+ADVANCED,Java|Spring Boot|Spring Security|REST APIs|Agile|Project Management,spring training,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+BEGINNER,French|Project Management|Agile,java,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+INTERMEDIATE,Java|Spring Boot|Angular|REST APIs|TypeScript,fullstack,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+INTERMEDIATE,Java|Spring Boot|Angular|Project Management,angular,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+BEGINNER,Java|REST APIs|French,spring,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+BEGINNER,Project Management|Java,it english,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+INTERMEDIATE,Angular|Project Management|TypeScript,presentation,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+ADVANCED,REST APIs,agile,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+BEGINNER,Angular|French,frontend,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+BEGINNER,Communication|French,java,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+ADVANCED,Project Management|PostgreSQL,jwt,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+INTERMEDIATE,Business English,business,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+BEGINNER,Angular|TypeScript|Business English|PostgreSQL,frontend,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+BEGINNER,Angular|Communication,typescript,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+ADVANCED,Java|Spring Boot|Spring Security|REST APIs,spring job,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+INTERMEDIATE,Java|Spring Boot|Angular|French,fullstack,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+BEGINNER,Angular|Communication|French,typescript,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+ADVANCED,Spring Boot,ui,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+BEGINNER,Java|REST APIs|PostgreSQL,spring,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+INTERMEDIATE,Angular|REST APIs,business,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+BEGINNER,French|PostgreSQL|Project Management,fullstack,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs|Project Management,angular,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+BEGINNER,French,francais,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+ADVANCED,Agile,spring,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+BEGINNER,French|Project Management|Agile,management,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+ADVANCED,Spring Boot|Project Management,auth,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+INTERMEDIATE,Communication|French|Spring Boot,presentation,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+BEGINNER,French|Spring Security,francais career,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,Business English|Communication,english,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+ADVANCED,Angular|Business English|Project Management,fullstack,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+INTERMEDIATE,Communication|Business English|PostgreSQL|TypeScript,business,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+INTERMEDIATE,Java|Angular,project,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+INTERMEDIATE,Communication,presentation,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+BEGINNER,Business English|Communication,it english training,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,PostgreSQL,french,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+BEGINNER,Java|REST APIs|PostgreSQL|Communication|Angular,api,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+ADVANCED,Agile|TypeScript,scrum,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+BEGINNER,Angular|REST APIs,typescript,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+BEGINNER,Communication|Angular,business,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+INTERMEDIATE,Project Management|Agile|Spring Boot|REST APIs,project,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+ADVANCED,French|Java,fullstack,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+BEGINNER,Communication|Business English|PostgreSQL,presentation,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+INTERMEDIATE,Project Management|Agile,agile,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+INTERMEDIATE,Project Management|Agile,agile training,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+INTERMEDIATE,Project Management|Agile,management,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+BEGINNER,Angular|TypeScript|Spring Security,angular,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+ADVANCED,Communication,francais,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+ADVANCED,REST APIs,project,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+ADVANCED,Java|Spring Boot|Spring Security|Project Management,jwt,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+BEGINNER,French|Communication|Java,francais,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,Java|REST APIs|Agile,java,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+ADVANCED,Java|Spring Boot|Spring Security|TypeScript,jwt,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+BEGINNER,Angular,angular,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+BEGINNER,French|Communication|REST APIs,language training,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,Spring Security|Business English|French,api,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+INTERMEDIATE,Spring Security|PostgreSQL|Business English,scrum,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+BEGINNER,Angular|PostgreSQL|Spring Boot,francais,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+BEGINNER,Business English|Communication|PostgreSQL,english,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,Business English|Communication,it english training,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+INTERMEDIATE,Java,rest,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+BEGINNER,French|Communication|Java|Business English,francais job,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,Java|REST APIs|PostgreSQL|Business English,spring,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+BEGINNER,French|Communication|Angular,francais training,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,Communication|Business English|REST APIs,communication,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+BEGINNER,Angular,fullstack,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+BEGINNER,Angular|REST APIs|Agile,typescript,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+INTERMEDIATE,Java,typescript,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+BEGINNER,Java|REST APIs|Business English|Communication,rest training,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+ADVANCED,Java|Spring Boot|Spring Security|REST APIs|Business English,security training,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+INTERMEDIATE,Spring Boot|Communication,presentation,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+ADVANCED,Java|Spring Boot|Spring Security|TypeScript|PostgreSQL,auth,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+BEGINNER,Business English|Communication|Agile|Spring Security,english,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+INTERMEDIATE,Communication|Spring Security,presentation career,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+BEGINNER,Java|REST APIs|PostgreSQL|Communication|Angular,api career,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+BEGINNER,Agile|Project Management|Communication,francais,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|Business English,java,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+INTERMEDIATE,Spring Boot|PostgreSQL|Project Management,management,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+BEGINNER,Project Management|French|Communication,english,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+BEGINNER,Java|Spring Boot|Angular|Business English,full stack job,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+BEGINNER,Business English|Communication|Java,english,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,Java|REST APIs,rest,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+BEGINNER,Communication,presentation,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript,java training,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+BEGINNER,Business English|Communication,it english career,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,Java|REST APIs|Communication,java job,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+ADVANCED,REST APIs|Spring Boot|Agile,french,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+BEGINNER,French|Communication|REST APIs|Business English,language training,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,Java|REST APIs|Business English,rest,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+ADVANCED,Java|Spring Boot|Spring Security|REST APIs|Communication,jwt,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+ADVANCED,Java|Spring Boot|Spring Security,security,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+ADVANCED,Spring Security|Project Management,language,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+ADVANCED,Java|Spring Boot|Spring Security|REST APIs|PostgreSQL|TypeScript,spring,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+BEGINNER,Communication,typescript,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+ADVANCED,Java|Spring Boot|Spring Security,jwt,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs|Communication,java,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+BEGINNER,Communication|TypeScript|PostgreSQL,business,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+ADVANCED,Java|Spring Boot|Spring Security|Project Management|Business English,security job,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+ADVANCED,Spring Boot|French,security,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+BEGINNER,French|Java|PostgreSQL,language,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+INTERMEDIATE,Communication|Business English,communication career,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+INTERMEDIATE,Communication|Angular|Project Management,presentation,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+BEGINNER,French|Spring Security,french,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,Java|REST APIs,backend,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+INTERMEDIATE,Spring Security|French|REST APIs,java,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+BEGINNER,French|Java|Angular,french,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,Angular,ui,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+INTERMEDIATE,Communication|Business English|Agile|Angular,business,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+ADVANCED,Communication|Project Management|Spring Boot,english,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+ADVANCED,Java|Spring Boot|Spring Security,security,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+ADVANCED,French,french,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+INTERMEDIATE,Agile,fullstack,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+ADVANCED,Communication|Angular,it english,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+BEGINNER,Java|REST APIs|Business English,api,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+BEGINNER,French|Communication|TypeScript,language,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+INTERMEDIATE,Project Management|Agile|Communication|Spring Boot,scrum job,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+BEGINNER,Project Management|Agile|French|Spring Security,scrum job,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+BEGINNER,Business English|French,security,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+ADVANCED,Business English|Spring Boot|Angular,it english,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs|Spring Security,angular,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+BEGINNER,Spring Boot|Angular,business,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+BEGINNER,Java|REST APIs|PostgreSQL|Project Management,java,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+BEGINNER,Communication|Spring Boot|Agile,presentation career,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+BEGINNER,Angular|TypeScript|PostgreSQL|French,typescript training,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+BEGINNER,Angular|TypeScript|Communication,frontend career,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+BEGINNER,Communication|Business English|French,francais,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+ADVANCED,Java|Spring Boot|Spring Security,spring,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+ADVANCED,Agile|Angular|Spring Security,communication,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+ADVANCED,Java|Spring Boot|Spring Security|REST APIs,spring career,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+ADVANCED,Spring Boot,api,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+INTERMEDIATE,Java|Spring Boot|Spring Security|REST APIs|Business English,spring job,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+BEGINNER,Project Management|Agile|Angular,typescript,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+INTERMEDIATE,French|Project Management,java,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+ADVANCED,Java|Spring Boot|Spring Security,jwt,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+ADVANCED,TypeScript,business,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+BEGINNER,Angular|TypeScript,ui,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+BEGINNER,Business English|Communication,language job,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,Java|REST APIs|TypeScript,java,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+BEGINNER,French|Agile,auth,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+INTERMEDIATE,Communication|Business English|Spring Boot,presentation,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+BEGINNER,Angular|TypeScript,frontend career,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+BEGINNER,Business English|Communication|Project Management|PostgreSQL,language,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,Business English|Communication|Project Management,english,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,Project Management|Agile,project,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+INTERMEDIATE,Agile|Angular,full stack,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+ADVANCED,PostgreSQL,business,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+BEGINNER,Agile|Java|French,fullstack,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+BEGINNER,Business English,it english,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,Business English|Communication|Spring Boot,it english,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,French|Communication|Java|TypeScript,language,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,Angular|Java,backend,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+ADVANCED,Java|Angular|TypeScript,java,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+BEGINNER,Business English|Communication,it english,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,Communication,angular,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+BEGINNER,Java|REST APIs|PostgreSQL|French|Communication,api,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+ADVANCED,French|Spring Boot,french,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|Communication|REST APIs,angular,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+BEGINNER,Project Management|TypeScript|Business English,java,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+INTERMEDIATE,Spring Boot|French|Angular,ui,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+ADVANCED,PostgreSQL|Agile|French,java,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+BEGINNER,French|Spring Security,rest,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+BEGINNER,French|Communication|TypeScript|Java,francais,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,Angular|Spring Boot,it english,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+BEGINNER,REST APIs|TypeScript,jwt,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+ADVANCED,Agile|French,business,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+BEGINNER,Java|REST APIs,java,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+INTERMEDIATE,Spring Boot|French,francais,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+BEGINNER,Communication|French,english,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+BEGINNER,Angular|TypeScript|Spring Boot|Business English,typescript,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+BEGINNER,Communication|Business English,presentation,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+BEGINNER,PostgreSQL,backend,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+BEGINNER,French|Communication,francais,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,Business English|Spring Security,language,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+ADVANCED,Spring Boot|TypeScript|Angular,business,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+ADVANCED,Spring Boot|Agile|REST APIs,francais,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+INTERMEDIATE,PostgreSQL|Spring Boot,francais,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+INTERMEDIATE,Project Management|Agile|Java,fullstack,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+INTERMEDIATE,TypeScript|Spring Boot,language,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+ADVANCED,Java|Spring Boot|Spring Security|Agile|Business English,security,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+INTERMEDIATE,Java,angular,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+ADVANCED,Java|Spring Boot|Spring Security|Angular|Communication,spring,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+BEGINNER,Angular|TypeScript|PostgreSQL,ui,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+INTERMEDIATE,REST APIs|Java|Agile,project,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,fullstack,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+INTERMEDIATE,Communication|Business English,business,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+BEGINNER,French|Communication,francais job,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+INTERMEDIATE,REST APIs|PostgreSQL|French,fullstack,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+BEGINNER,Java|REST APIs|Communication|Angular,api job,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+ADVANCED,REST APIs|TypeScript,language,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+ADVANCED,Java|Spring Boot|Angular,spring,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+BEGINNER,Java|REST APIs|TypeScript,java training,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+BEGINNER,Angular|TypeScript|Communication,typescript,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+INTERMEDIATE,Project Management|Agile,agile,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+BEGINNER,PostgreSQL|Angular,angular,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+ADVANCED,Agile,english,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+BEGINNER,Java|REST APIs|PostgreSQL,api job,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+BEGINNER,Project Management|French|Agile,spring,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+ADVANCED,French,jwt,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+BEGINNER,Java|REST APIs|Spring Security,api,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+BEGINNER,Java|REST APIs|PostgreSQL,rest,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+INTERMEDIATE,Communication|French|Project Management,business,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+INTERMEDIATE,Agile|Angular,typescript,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+INTERMEDIATE,Communication|Spring Security|TypeScript,java,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+BEGINNER,Business English|Communication,it english training,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,Project Management|Agile|French,project,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+BEGINNER,French|Communication|Business English,french,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,Angular|TypeScript,ui,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+ADVANCED,Business English|Spring Boot|PostgreSQL,project,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+BEGINNER,French|Communication|PostgreSQL|REST APIs,francais,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,Java|REST APIs|Spring Security,rest,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+BEGINNER,Angular,language,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+ADVANCED,Spring Boot,agile,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+INTERMEDIATE,Business English|PostgreSQL,frontend,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+BEGINNER,TypeScript,communication,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+BEGINNER,Java|REST APIs|Agile|Communication,rest,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+INTERMEDIATE,Spring Security,jwt,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+ADVANCED,Spring Boot,frontend,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+ADVANCED,REST APIs|Spring Boot|PostgreSQL,french,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+BEGINNER,Java|REST APIs|PostgreSQL|Business English|French,api,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+BEGINNER,Business English|TypeScript|French,language,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+INTERMEDIATE,Project Management|Agile|French|Communication,project,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+ADVANCED,TypeScript|Project Management,rest,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+INTERMEDIATE,Communication|Business English,communication,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+ADVANCED,Project Management|Communication|Agile,auth,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+ADVANCED,French,security,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+BEGINNER,Angular|Spring Boot,ui,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+INTERMEDIATE,Project Management|Agile,english,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+INTERMEDIATE,Communication|Spring Security,communication,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+BEGINNER,French|Java,language career,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,French|Business English,french,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+BEGINNER,Angular,angular,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+INTERMEDIATE,Communication|Agile,communication job,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+BEGINNER,Angular|Java,ui,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+ADVANCED,Java|Spring Boot|Spring Security|REST APIs|Communication,jwt training,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|French,angular,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+ADVANCED,Spring Security|French|Angular,java,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+ADVANCED,Spring Security|Java|PostgreSQL,angular,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+BEGINNER,PostgreSQL,scrum,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+ADVANCED,French|Communication|Agile,language,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+ADVANCED,Spring Security,business,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+BEGINNER,Angular|TypeScript,typescript,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+BEGINNER,Angular|TypeScript|French|PostgreSQL,typescript,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+BEGINNER,Agile|Communication,business,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+ADVANCED,Java|Spring Boot|Spring Security,jwt,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|PostgreSQL|Communication,java training,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+BEGINNER,Communication|TypeScript,communication,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|Business English|Agile,fullstack,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+INTERMEDIATE,Project Management|TypeScript|Spring Security,auth,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+ADVANCED,Business English|Spring Boot|REST APIs,project,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+ADVANCED,French,french,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+INTERMEDIATE,Project Management|Agile|PostgreSQL,agile career,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+INTERMEDIATE,Java|PostgreSQL,java,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+BEGINNER,French|Communication,francais,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+INTERMEDIATE,Project Management|Spring Security,language,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+ADVANCED,Angular,api,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+BEGINNER,Business English|Project Management|PostgreSQL,english,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,French,rest,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+INTERMEDIATE,TypeScript|Business English|Project Management,jwt,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+ADVANCED,Business English,api,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+INTERMEDIATE,Angular,fullstack,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+INTERMEDIATE,Communication,business job,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+BEGINNER,Angular|TypeScript,typescript training,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+BEGINNER,Business English|PostgreSQL,english career,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs|Spring Security,angular,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+BEGINNER,French|Communication,language,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,Angular|TypeScript,frontend,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+INTERMEDIATE,Agile|Business English|Communication,api,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+ADVANCED,Java,java,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+INTERMEDIATE,REST APIs|Agile|PostgreSQL,rest,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+INTERMEDIATE,Project Management|Agile|Communication,agile,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+BEGINNER,PostgreSQL|Project Management,typescript,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+INTERMEDIATE,Java|Spring Security,presentation,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+ADVANCED,French|Business English,language,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+INTERMEDIATE,Java|Spring Boot|Spring Security|REST APIs|French|Communication,auth,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+INTERMEDIATE,Java|Spring Boot|Communication,fullstack,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+ADVANCED,Agile|TypeScript|Spring Boot,language,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+INTERMEDIATE,PostgreSQL,full stack,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+BEGINNER,Business English|Project Management|Spring Security,language,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,Angular,frontend,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+INTERMEDIATE,Project Management|Agile|Communication|French|PostgreSQL,scrum job,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+INTERMEDIATE,Communication|French,fullstack,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+ADVANCED,Spring Boot,fullstack,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+BEGINNER,Business English|Java|REST APIs,it english,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs|Spring Security,full stack,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+BEGINNER,Spring Boot,angular,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+INTERMEDIATE,Communication,presentation,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+ADVANCED,Java,java,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+BEGINNER,French,java,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+BEGINNER,Business English|Communication|Java|PostgreSQL,it english job,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,Java|REST APIs|French,java,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+BEGINNER,Java|REST APIs,spring,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+ADVANCED,Business English,business,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+BEGINNER,French,francais,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,Communication|Business English,business,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+BEGINNER,Java|REST APIs|PostgreSQL,rest,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+BEGINNER,Java|REST APIs,backend,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+ADVANCED,Business English|Angular,language,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+INTERMEDIATE,Communication|Business English,communication,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+ADVANCED,Project Management,presentation,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+BEGINNER,Business English|Communication|Java,english,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,French|Communication|Java,french career,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,French|REST APIs,security,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+BEGINNER,Spring Security,angular,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+INTERMEDIATE,Project Management|Agile|Spring Security,scrum,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+ADVANCED,REST APIs,spring,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+INTERMEDIATE,Java,language,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+BEGINNER,Angular|Spring Security,ui career,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+ADVANCED,Java|Spring Boot|Spring Security|French|Agile,auth training,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+ADVANCED,Project Management|PostgreSQL,project,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+INTERMEDIATE,Java|Spring Boot|Angular,fullstack,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+INTERMEDIATE,Communication,presentation,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+BEGINNER,French|Project Management,francais,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,Business English|Communication|Spring Boot,english training,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,Angular,spring,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|Agile,angular training,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+INTERMEDIATE,Project Management|Agile|TypeScript,project,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+INTERMEDIATE,REST APIs,it english,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+INTERMEDIATE,Angular|Spring Boot,ui,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+BEGINNER,Business English|Communication|Java|Angular,english,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+ADVANCED,Angular|REST APIs,fullstack,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+INTERMEDIATE,Project Management|Agile,management,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+ADVANCED,TypeScript,backend,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+BEGINNER,PostgreSQL|Spring Boot,jwt,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+BEGINNER,French|PostgreSQL,francais,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,Java|REST APIs|Agile,spring job,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+INTERMEDIATE,Java|Spring Boot|Spring Security|REST APIs,jwt,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+BEGINNER,French|Communication|Business English,language,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+INTERMEDIATE,Spring Security|Communication,presentation,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+BEGINNER,French|Communication|Spring Boot|PostgreSQL,francais,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+INTERMEDIATE,Project Management|Agile|Communication,management,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+BEGINNER,French|Communication|Business English|Spring Boot,french career,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+ADVANCED,REST APIs,full stack,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+BEGINNER,Communication|Project Management|Business English,typescript,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+BEGINNER,Java|REST APIs|Communication|Agile,api,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+BEGINNER,Java|REST APIs|PostgreSQL,api,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+ADVANCED,PostgreSQL|Agile,french,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+ADVANCED,Project Management,jwt,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+INTERMEDIATE,Business English,java,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+INTERMEDIATE,Java|Spring Boot|Angular|French|REST APIs,angular,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+INTERMEDIATE,TypeScript,java,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+BEGINNER,Business English,english career,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+INTERMEDIATE,Agile,business,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+BEGINNER,Agile|French|Spring Security,security,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+BEGINNER,Angular|TypeScript,ui training,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+INTERMEDIATE,Communication|Business English|PostgreSQL,business,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+BEGINNER,Angular|French,frontend,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+ADVANCED,Project Management|Spring Boot|Angular,api,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript,full stack,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+ADVANCED,PostgreSQL,typescript,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+BEGINNER,Business English|Communication|Project Management,it english job,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,Java|REST APIs|PostgreSQL|Project Management|Spring Boot,java,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+ADVANCED,TypeScript|French|Project Management,language,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+INTERMEDIATE,Project Management,spring,8,French Workplace Communication,BEGINNER,French|Communication,Languages,0
+INTERMEDIATE,Spring Boot,jwt,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,0
+ADVANCED,Spring Security|REST APIs,jwt,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+INTERMEDIATE,Project Management|Agile|REST APIs|PostgreSQL,scrum job,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+BEGINNER,Angular|TypeScript|Agile|Spring Security,ui job,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+BEGINNER,TypeScript|Agile,english,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+BEGINNER,French|Communication|Project Management,french,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs|Business English|Project Management,fullstack,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+INTERMEDIATE,Communication|Spring Boot|TypeScript,communication,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+ADVANCED,French|Business English,typescript,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+ADVANCED,REST APIs|French|Project Management,spring,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+BEGINNER,Angular|TypeScript|Spring Security|PostgreSQL,frontend career,3,Angular Essentials,BEGINNER,Angular|TypeScript,IT,1
+BEGINNER,Business English|Communication,english,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,Business English|French|TypeScript,language,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+ADVANCED,Java|Spring Boot|Spring Security|Angular,jwt,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+BEGINNER,Project Management|Agile|Java,scrum,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+BEGINNER,Business English|Spring Security|REST APIs,language,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+INTERMEDIATE,Java|Spring Boot|Angular,java job,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+BEGINNER,Angular,full stack,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+INTERMEDIATE,Project Management|Agile,project job,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+INTERMEDIATE,Spring Security,ui,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+ADVANCED,Angular|TypeScript,typescript,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+ADVANCED,Agile|French|Communication,java,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+BEGINNER,Java|REST APIs|PostgreSQL|Angular|Spring Boot,rest training,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,1
+INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|French|Agile,java training,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+INTERMEDIATE,Communication,presentation,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+BEGINNER,French|Communication,francais,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+BEGINNER,Project Management|Communication,angular,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,0
+ADVANCED,Java|Spring Boot|Spring Security|Business English|Angular,security,2,Advanced Spring Security,ADVANCED,Java|Spring Boot|Spring Security|REST APIs,Cybersecurity,1
+BEGINNER,Java|Spring Boot|Angular|TypeScript|REST APIs|Business English|Spring Security,full stack job,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+INTERMEDIATE,Project Management|Agile|Spring Boot,scrum training,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,1
+ADVANCED,Spring Security|Business English|Project Management,scrum,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+BEGINNER,Java|Spring Boot|Angular|TypeScript,java,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,1
+INTERMEDIATE,Communication|Business English,business training,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,1
+INTERMEDIATE,Angular|Spring Security,project,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,0
+BEGINNER,French|Communication|REST APIs,francais job,8,French Workplace Communication,BEGINNER,French|Communication,Languages,1
+ADVANCED,French|Spring Security,java,1,Spring Boot Fundamentals,BEGINNER,Java|REST APIs|PostgreSQL,IT,0
+BEGINNER,Business English|Communication,english,7,Professional English for IT,BEGINNER,Business English|Communication,Languages,1
+BEGINNER,French,francais,4,Full Stack Java Angular,INTERMEDIATE,Java|Spring Boot|Angular|TypeScript|REST APIs,IT,0
+ADVANCED,Spring Security|Java|PostgreSQL,fullstack,5,Project Management Professional,INTERMEDIATE,Project Management|Agile|Communication,Management,0
+ADVANCED,Spring Boot|Agile,it english,6,Business Communication,INTERMEDIATE,Communication|Business English,Management,0

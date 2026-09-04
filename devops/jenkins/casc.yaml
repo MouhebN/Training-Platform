@@ -1,0 +1,19 @@
+jenkins:
+  systemMessage: "Training Platform CI — Docker Jenkins (tests + SonarQube). Kubernetes skipped."
+  numExecutors: 2
+  securityRealm:
+    local:
+      allowsSignup: false
+      users:
+        - id: "admin"
+          password: "admin"
+  authorizationStrategy:
+    loggedInUsersCanDoAnything:
+      allowAnonymousRead: true
+
+unclassified:
+  sonarGlobalConfiguration:
+    buildWrapperEnabled: false
+    installations:
+      - name: "SonarQube"
+        serverUrl: "http://sonarqube:9000"

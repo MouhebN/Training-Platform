@@ -1,0 +1,139 @@
+# DevOps stack (all Docker — no WSL / no VM)
+# Requires app network: start app stack first, or this file creates/joins training-platform-net
+#
+#   docker compose up -d
+#   docker compose -f docker-compose.devops.yml up -d --build
+#
+# Skip Kubernetes for now (add later if time).
+
+services:
+  sonar-db:
+    image: postgres:16-alpine
+    container_name: training-sonar-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: sonar
+      POSTGRES_PASSWORD: sonar
+      POSTGRES_DB: sonar
+    volumes:
+      - sonar-db:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U sonar -d sonar"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+    networks:
+      - training-platform-net
+
+  sonarqube:
+    image: sonarqube:lts-community
+    container_name: training-sonarqube
+    restart: unless-stopped
+    depends_on:
+      sonar-db:
+        condition: service_healthy
+    environment:
+      SONAR_JDBC_URL: jdbc:postgresql://sonar-db:5432/sonar
+      SONAR_JDBC_USERNAME: sonar
+      SONAR_JDBC_PASSWORD: sonar
+      SONAR_ES_BOOTSTRAP_CHECKS_DISABLE: "true"
+    ports:
+      - "${SONAR_PORT:-9000}:9000"
+    volumes:
+      - sonar-data:/opt/sonarqube/data
+      - sonar-logs:/opt/sonarqube/logs
+      - sonar-extensions:/opt/sonarqube/extensions
+    networks:
+      - training-platform-net
+    # Sonar needs RAM; raise if it crash-loops
+    ulimits:
+      nofile:
+        soft: 65536
+        hard: 65536
+
+  jenkins:
+    build:
+      context: ./devops/jenkins
+    container_name: training-jenkins
+    restart: unless-stopped
+    depends_on:
+      - sonarqube
+    ports:
+      - "${JENKINS_PORT:-8081}:8080"
+      - "${JENKINS_AGENT_PORT:-50000}:50000"
+    environment:
+      CASC_JENKINS_CONFIG: /var/jenkins_home/casc_configs
+      JAVA_OPTS: "-Djenkins.install.runSetupWizard=false"
+      # Set after you create the GitHub repo, then recreate Jenkins:
+      #   GITHUB_REPO_URL=https://github.com/<you>/<repo>.git
+      GITHUB_REPO_URL: ${GITHUB_REPO_URL:-}
+      GITHUB_BRANCH: ${GITHUB_BRANCH:-main}
+      GITHUB_CREDENTIALS_ID: ${GITHUB_CREDENTIALS_ID:-github-credentials}
+    volumes:
+      - jenkins-data:/var/jenkins_home
+      - ./:/workspace:ro
+    networks:
+      - training-platform-net
+
+  prometheus:
+    image: prom/prometheus:v2.54.1
+    container_name: training-prometheus
+    restart: unless-stopped
+    command:
+      - --config.file=/etc/prometheus/prometheus.yml
+      - --storage.tsdb.path=/prometheus
+      - --web.enable-lifecycle
+    ports:
+      - "${PROMETHEUS_PORT:-9090}:9090"
+    volumes:
+      - ./devops/prometheus/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+      - prometheus-data:/prometheus
+    networks:
+      - training-platform-net
+
+  grafana:
+    image: grafana/grafana:11.2.0
+    container_name: training-grafana
+    restart: unless-stopped
+    depends_on:
+      - prometheus
+    environment:
+      GF_SECURITY_ADMIN_USER: ${GRAFANA_USER:-admin}
+      GF_SECURITY_ADMIN_PASSWORD: ${GRAFANA_PASSWORD:-admin}
+      GF_USERS_ALLOW_SIGN_UP: "false"
+    ports:
+      - "${GRAFANA_PORT:-3000}:3000"
+    volumes:
+      - grafana-data:/var/lib/grafana
+      - ./devops/grafana/provisioning:/etc/grafana/provisioning:ro
+    networks:
+      - training-platform-net
+
+  cadvisor:
+    image: gcr.io/cadvisor/cadvisor:v0.49.1
+    container_name: training-cadvisor
+    restart: unless-stopped
+    privileged: true
+    ports:
+      - "${CADVISOR_PORT:-8088}:8080"
+    volumes:
+      - /:/rootfs:ro
+      - /var/run:/var/run:ro
+      - /sys:/sys:ro
+      - /var/lib/docker/:/var/lib/docker:ro
+    networks:
+      - training-platform-net
+
+volumes:
+  jenkins-data:
+  sonar-db:
+  sonar-data:
+  sonar-logs:
+  sonar-extensions:
+  prometheus-data:
+  grafana-data:
+
+networks:
+  training-platform-net:
+    name: training-platform-net
+    driver: bridge
