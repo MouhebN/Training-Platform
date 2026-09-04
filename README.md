@@ -49,7 +49,7 @@ docker compose up -d
 docker compose -f docker-compose.devops.yml up -d --build
 ```
 
-Details: [docs/devops.md](docs/devops.md)
+Details: see local `docs/devops.md` (not pushed to GitHub).
 
 | Tool | URL |
 |------|-----|

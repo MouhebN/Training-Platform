@@ -11,3 +11,9 @@ frontend/node_modules/
 ml-service/.venv/
 __pycache__/
 *.pyc
+
+# Local / private materials — do not push
+docs/
+Sujet-4.pdf
+*.pdf
+740764970_1025103560070408_5112364947845273086_n.jpg
