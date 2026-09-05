@@ -1,3 +1,4 @@
+timestamper:latest
 workflow-aggregator:latest
 git:latest
 github:latest

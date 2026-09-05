@@ -78,7 +78,7 @@ services:
       - training-platform-net
 
   prometheus:
-    image: prom/prometheus:v2.54.1
+    image: prom/prometheus:v3.14.0
     container_name: training-prometheus
     restart: unless-stopped
     command:
@@ -89,12 +89,13 @@ services:
       - "${PROMETHEUS_PORT:-9090}:9090"
     volumes:
       - ./devops/prometheus/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+      - ./devops/prometheus/alerts.yml:/etc/prometheus/alerts.yml:ro
       - prometheus-data:/prometheus
     networks:
       - training-platform-net
 
   grafana:
-    image: grafana/grafana:11.2.0
+    image: grafana/grafana:13.2.1
     container_name: training-grafana
     restart: unless-stopped
     depends_on:
@@ -103,6 +104,7 @@ services:
       GF_SECURITY_ADMIN_USER: ${GRAFANA_USER:-admin}
       GF_SECURITY_ADMIN_PASSWORD: ${GRAFANA_PASSWORD:-admin}
       GF_USERS_ALLOW_SIGN_UP: "false"
+      GF_DASHBOARDS_DEFAULT_HOME_DASHBOARD_PATH: /etc/grafana/provisioning/dashboards/json/backend.json
     ports:
       - "${GRAFANA_PORT:-3000}:3000"
     volumes:
@@ -111,18 +113,13 @@ services:
     networks:
       - training-platform-net
 
-  cadvisor:
-    image: gcr.io/cadvisor/cadvisor:v0.49.1
-    container_name: training-cadvisor
+  docker-exporter:
+    build: ./devops/docker-exporter
+    image: training-docker-exporter:local
+    container_name: training-docker-exporter
     restart: unless-stopped
-    privileged: true
-    ports:
-      - "${CADVISOR_PORT:-8088}:8080"
     volumes:
-      - /:/rootfs:ro
-      - /var/run:/var/run:ro
-      - /sys:/sys:ro
-      - /var/lib/docker/:/var/lib/docker:ro
+      - /var/run/docker.sock:/var/run/docker.sock:ro
     networks:
       - training-platform-net
 

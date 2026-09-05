@@ -1,0 +1,22 @@
+groups:
+  - name: training-platform
+    rules:
+      - alert: BackendDown
+        expr: up{job="training-platform-backend"} == 0
+        for: 1m
+        labels:
+          severity: critical
+        annotations:
+          summary: "Training Platform backend is down"
+          description: "Prometheus cannot scrape backend:8080/actuator/prometheus"
+
+      - alert: HighHeapUsage
+        expr: |
+          sum(jvm_memory_used_bytes{job="training-platform-backend", area="heap"})
+          /
+          sum(jvm_memory_max_bytes{job="training-platform-backend", area="heap"}) > 0.9
+        for: 2m
+        labels:
+          severity: warning
+        annotations:
+          summary: "Backend JVM heap above 90%"
